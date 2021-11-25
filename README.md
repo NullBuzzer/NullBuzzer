@@ -3,7 +3,7 @@
 
 - 📚 I’m currently learning **Python, Linux, Cyber Security**
 
-- 📫 How to reach me **nullbuzzer@gmail.com** OR **GrossRamen#7772**
+- 📫 How to reach me **nullbuzzer@gmail.com** OR **BOOG#7772**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
